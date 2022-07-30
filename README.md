@@ -1,4 +1,4 @@
-# scimark2_java
+# scimark2.java
 SciMark 2.0a for Java with minimal modifications
 
 Copied from https://math.nist.gov/scimark2/
