@@ -3,7 +3,7 @@ SciMark 2.0a for Java with minimal modifications
 
 Copied from https://math.nist.gov/scimark2/
 
-## Java Source Code Authors
+### Java Source Code Authors
 
 Roldan Pozo and Bruce Miller at https://www.nist.gov/
 
