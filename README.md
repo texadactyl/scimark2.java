@@ -10,7 +10,6 @@ Roldan Pozo and Bruce Miller at https://www.nist.gov/
 ### Installation
 
 * ```git clone ...``` or unpack the zip file to a target_directory.
-* ```export CLASSPATH=target_directory```
 * ```cd target_directory```
 
 ### Compiling the Benchmark Source Code
